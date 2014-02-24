@@ -1,0 +1,122 @@
+a,
+.social_link,
+.related-posts_item a,
+.post_author a,
+.breadcrumb a,
+.post-list a,
+.comments-custom a,
+#wp-calendar a,
+.tagcloud a,
+.post_date_grid_filtr a {
+    color: #00e7b4;
+}
+.zoom-icon, .zoom-insta, .zoom-icon-video, .image-mail:hover .zoom-mail {
+    background: #00e7b4;
+}
+.link-image a p {background:#00e7b4;-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=90)";filter: alpha(opacity=90);-moz-opacity: 0.9;-khtml-opacity: 0.9;opacity: 0.9;}
+.link-image a:hover p {background:#00e7b4;-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";filter: alpha(opacity=100);-moz-opacity: 1.0;-khtml-opacity: 1.0;opacity: 1.0;}
+
+.form-submit input[type="submit"]:hover, .active .btn, .btn:hover, .btn:focus {
+    background-color: #00e7b4;
+    border-color: #00e7b4;
+	color: #fff;
+}
+@media all and (min-width: 800px) {
+.flexnav li ul li a { color: #ffffff;}
+}
+.flexnav li li > a:hover, .flexnav li li.current-menu-item > a { color:#222222; }
+.flexnav .sub-menu  > li { background: #00e7b4;}
+.flexnav li li > a:hover, .flexnav li li.sfHover > a, .flexnav li li.current-menu-item > a { background: #ffffff url('../images/line-menu.png') repeat-x bottom; }
+.flexnav > li.sfHover > a span, .flexnav > li.current-menu-item > a span, .flexnav > li.current-menu-ancestor  > a span {
+background: #b6b6b6;
+}
+.flexnav > li > a span {
+   background: #eeeeee;
+}
+.flexnav > li > a:hover span,
+.flexnav li:hover > a span {
+background: #b6b6b6;
+}
+.flexnav > li.current-menu-item > a, .flexnav > li.current-menu-ancestor  > a, .flexnav li:hover > a {
+  color: #00e7b4;
+  }
+.sub-menu li:first-child a:after{
+border-bottom: 11px solid #00e7b4;
+}
+.flexnav > li > a:hover,
+.flexnav > li.sfHover > a {
+  color: #00e7b4;
+}
+.flexnav .sub-menu  {
+   background: #00e7b4; 
+}
+  .oldie .flexnav li {
+    background-color: #00e7b4;
+ }
+ .format-quote {background:#00e7b4;}
+.isotope-item .format-quote {background:#00e7b4; }
+.private-image h3{color:#00e7b4; }
+.btn-1c:after {
+	background: #00e7b4;
+}
+.btn-1c:hover,
+.btn-1c:active {
+	border: 3px solid #00e7b4;
+}
+.post-header-article {background:#00e7b4;}
+.twitter-code i {
+    color: #00e7b4;
+}
+#showTop {
+    background: #00e7b4;
+	}
+	.cbp-spmenu {
+	background: #00e7b4;
+	}
+.hi-icon-effect-1 .hi-icon {
+	box-shadow: 0 0 0 2px #00e7b4;
+}
+
+.hi-icon-effect-1 .hi-icon:after {
+	box-shadow: 0 0 0 4px #00e7b4;
+}
+.title-section h2 {
+color: #00e7b4;
+}
+.tagcloud a {
+border:1px solid #00e7b4;
+}
+.twitter i {
+color:#00e7b4;
+}
+.type-page li:before {
+  color:#00e7b4;
+  }
+.fs-carousel-header a:hover  { color:#00e7b4; }
+.fs-carousel-header a:hover { color:#00e7b4;}
+.dropcap.bl:first-letter, .text-highlight, .services-grid  .hr {
+background: #00e7b4;
+}
+div.jp-play-bar, div.jp-volume-bar-value {
+  background-color: #00e7b4;
+  }
+.blue, .progress .bar, .ourclients .hr, .clients .hr {
+    background: #00e7b4;
+}
+.twitter .stream-item-header .account-group .username {
+    color: #00e7b4;
+}
+.flexslider a,
+.footer .social a {
+    color: #00e7b4;
+}
+.flexslider a:hover {color: #222222;}
+.error404-holder_num {color: #00e7b4;}
+#ascrail2000 div {background-color:#00e7b4;}
+.btn-color {background-color:#00e7b4; border: 2px solid #00e7b4;}
+.btn-white:hover, .btn-white:focus {background-color:#00e7b4; border-color:#00e7b4;}
+.nav-tabs > .active > a,
+.nav-tabs > .active > a:hover,
+.nav-tabs > .active > a:focus {
+  border-top: 3px solid #00e7b4;
+}

@@ -1,0 +1,5117 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: JohnDoesBlog\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator:  <info@hercules-design.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: Poedit 1.6.3\n"
+
+#. Text in function
+#: header.php:8
+msgid " Archive | "
+msgstr ""
+
+#. Text in function
+#: includes/theme-function.php:685
+msgid " Page"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid " backup file not found. Please try to create backup once again."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid " details"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid " label:"
+msgstr ""
+
+#. Text in function
+#: includes/theme-function.php:673
+msgid "%1$s"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "%1$s Responses"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "%1$s installed successfully."
+msgstr ""
+
+#. Text in function
+#: loop/loop-author.php:50 includes/locals.php:1
+msgid "%1$s on %2$s"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1 includes/post-formats-isotope/post-nav.php:7
+msgid "&laquo; Older Entries"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "&laquo; Previous post."
+msgstr ""
+
+#. Text in function
+#: header.php:8
+msgid "&quot; | "
+msgstr ""
+
+#. Text in echo
+#: functions.php:419
+msgid "(Unattached)"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1 includes/widgets/my-posts-type-widget.php:317
+msgid "(default: \"Read more\")"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1 includes/widgets/my-posts-type-widget.php:364
+msgid "(default: \"View all\")"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1 includes/widgets/my-posts-type-widget.php:261
+msgid "(default: \"featured_custom_posts\")"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1 includes/widgets/my-posts-type-widget.php:323
+msgid "(default: \"link\")"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "- Select -"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "0"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "1"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "1 Response"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "125x125 Ads"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "2 Columns"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "3 Columns"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "4 Columns"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "404 page"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid ""
+"<b style=\"color:red;\">Warning!</b> Before updating framework you are "
+"strongly advised to <a href=\"admin.php?page=options-framework-data-"
+"management\">backup</a> your data."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid ""
+"<b>Attention:</b> the Jigoshop plugin is not activated. We recommend that "
+"you install and activate this plugin to ensure correct data importing. "
+"Otherwise, some data may be lost during the import."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid ""
+"<b>Attention:</b> the WooCommerce plugin is not activated. We recommend that "
+"you install and activate this plugin to ensure correct data importing. "
+"Otherwise, some data may be lost during the import."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid ""
+"<b>Warning!</b> Before updating framework you are strongly advised to backup "
+"your data."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid ""
+"<p>An Unexpected HTTP Error occurred during the API request.</p><p><a "
+"href='#' onclick='document.location.reload(); return false;'>Try again</a></"
+"p>"
+msgstr ""
+
+#. Text in function
+#: includes/theme-function.php:672
+msgid "<span class=\"author\">%1$s</span>"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "<span>Step <i>1</i></span> Data Import"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "<span>Step <i>1</i></span> Widget Settings Export"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "<span>Step <i>1</i></span>Theme Options Export"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "<span>Step <i>1</i></span>Theme Options Import"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "<span>Step <i>2</i></span> Assign Authors"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "<span>Step <i>3</i></span> Widget Settings Import"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "<span>Step <i>4</i></span> Widget Settings Import"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid ""
+"<span>Update Required. </span>To play the media you will need to either "
+"update your browser to a recent version or update your <a href='http://get."
+"adobe.com/flashplayer/' target='_blank'>Flash plugin</a>."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid ""
+"<strong>Change frequency</strong> - specify how often you change certain "
+"post types. It helps the search engines to determine how relevant your "
+"information is at the moment of search."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid ""
+"<strong>Include post types</strong> - specify the post types which will be "
+"included into your sitemap."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid ""
+"<strong>Ping sitemap</strong> - choose the search engines which will receive "
+"the link to your sitemap."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid ""
+"<strong>Priority</strong> - set post type priorities on your site. For "
+"example, if the blog page content is more important for search engines than "
+"the portfolio page content, set the priority for blog posts as 1, for "
+"portfolio pages as 0.9 and so on."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files. "
+msgstr ""
+
+#. Text in function
+#: includes/widgets/my-instagram-widget.php:29
+msgid "A widget that displays the latest Instagram images"
+msgstr ""
+
+#. Text in function
+#: includes/widgets/my-flickr-widget.php:1
+msgid "A widget that displays the latest flickr images"
+msgstr ""
+
+#. Text in function
+#: includes/widgets/my-twitter-widget.php:1
+msgid "A widget that displays the latest tweets"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "A."
+msgstr ""
+
+#. Text in function
+#: includes/theme-init.php:1
+msgid "About me"
+msgstr ""
+
+#. Text in echo
+#: loop/loop-author.php:11 includes/locals.php:1
+msgid "About:"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Accordion"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Activate"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Activate installed plugin"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Activate installed plugins"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Active slide"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Ad 1"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Ad 2"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Ad 3"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Ad 4"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Ad Link:"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Add 125x125 ads."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Add page"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid ""
+"Add the <em>\"rel\"</em> attribute with the <em>\"nofollow\"</em> value to "
+"content links."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Additional info for this portfolio item."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Address"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Advanced Cycle"
+msgstr ""
+
+#. Text in echo
+#: includes/widgets/my-social-widget.php:215
+msgid "Aim"
+msgstr ""
+
+#. Text in echo
+#: includes/widgets/my-social-widget.php:216
+msgid "Aim URL:"
+msgstr ""
+
+#. Text in echo
+#: includes/widgets/my-social-widget.php:218
+msgid "Aim label:"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Alert Box"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "All devices"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "All installations have been completed."
+msgstr ""
+
+#. Text in function
+#: includes/class-tgm-plugin-activation2.php:1 includes/locals.php:1
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "All templates"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "All users"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "An unknown error occurred"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Animate slider automatically?"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Animation slowdown"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Animation speed"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Animation speed (ms)"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Animation speed."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid ""
+"Apologies, but no results were found for the requested archive. Perhaps "
+"searching will help find a related post."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Archive"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Archives"
+msgstr ""
+
+#. Text in echo
+#: loop/loop-archives.php:38 includes/locals.php:1
+msgid "Archives by Month:"
+msgstr ""
+
+#. Text in echo
+#: loop/loop-archives.php:46 includes/locals.php:1
+msgid "Archives by Subject:"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Arrow 2 List"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Arrow List"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Arrows markup."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Artist"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Aside"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Assign Authors"
+msgstr ""
+
+#. Text in echo
+#: functions.php:420
+msgid "Attach"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Audio"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Audio & Video"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Audio Settings"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Audio URL"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Audio format"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Author"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Author of the post."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Avatar size (px)"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Background Color"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Background Image"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Backup"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Backup Version"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Banner"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Banner effect"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Bar"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Basic"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Begin installing plugin"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Begin installing plugins"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Blockquote"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Blog"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Blog Title"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Blog image size"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Body Text"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Body styling"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Bold"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Bold Italic"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Both"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Both (by category and tags)"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Bottom Center"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Bottom Left"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Bottom Right"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Button"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "By category"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "By tags"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Cancel"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Caption"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Carousel"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Categories"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Category"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Category Archive for"
+msgstr ""
+
+#. Text in function
+#: header.php:8
+msgid "Category Archive for &quot;"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Category Archives"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Category ID/Name/slug"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Category Include"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Category Slug:"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Change freq."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Change the background style"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Change the color of link"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Change the color of link hover state"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Change the header background color"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Character Sets"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Check 2 List"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Check List"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Check this to enable the lightbox."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Child Theme"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Choose audio format."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Choose post format that most fit your needs."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Choose sidebar position."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid ""
+"Choose your prefered font for H1 heading and titles. <em>Note: fonts marked "
+"with <strong>*</strong> symbol will be loaded from the <a href='http://www."
+"google.com/webfonts'>Google Web Fonts</a> library.</em>"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid ""
+"Choose your prefered font for H2 heading and titles. <em>Note: fonts marked "
+"with <strong>*</strong> symbol will be loaded from the <a href='http://www."
+"google.com/webfonts'>Google Web Fonts</a> library.</em>"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid ""
+"Choose your prefered font for H3 heading and titles. <em>Note: fonts marked "
+"with <strong>*</strong> symbol will be loaded from the <a href='http://www."
+"google.com/webfonts'>Google Web Fonts</a> library.</em>"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid ""
+"Choose your prefered font for H4 heading and titles. <em>Note: fonts marked "
+"with <strong>*</strong> symbol will be loaded from the <a href='http://www."
+"google.com/webfonts'>Google Web Fonts</a> library.</em>"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid ""
+"Choose your prefered font for H5 heading and titles. <em>Note: fonts marked "
+"with <strong>*</strong> symbol will be loaded from the <a href='http://www."
+"google.com/webfonts'>Google Web Fonts</a> library.</em>"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid ""
+"Choose your prefered font for H6 heading and titles. <em>Note: fonts marked "
+"with <strong>*</strong> symbol will be loaded from the <a href='http://www."
+"google.com/webfonts'>Google Web Fonts</a> library.</em>"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid ""
+"Choose your prefered font for body text. <em>Note: fonts marked with "
+"<strong>*</strong> symbol will be loaded from the <a href='http://www.google."
+"com/webfonts'>Google Web Fonts</a> library.</em>"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid ""
+"Choose your prefered font for menu. <em>Note: fonts marked with <strong>*</"
+"strong> symbol will be loaded from the <a href=\"http://www.google.com/"
+"webfonts\">Google Web Fonts</a> library.</em>"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid ""
+"Choose your prefered font for menu. <em>Note: fonts marked with <strong>*</"
+"strong> symbol will be loaded from the <a href='http://www.google.com/"
+"webfonts'>Google Web Fonts</a> library.</em>"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "City/Locality:"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Clear"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Click"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid ""
+"Click Upload or Enter the direct path to your <strong>favicon</strong>. For "
+"example <em>http://your_website_url_here/wp-content/themes/themeXXXX/favicon."
+"ico</em>"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid ""
+"Click Upload or Enter the direct path to your <strong>logo image</strong>. "
+"For example <em>http://your_website_url_here/wp-content/themes/themeXXXX/"
+"images/logo.png</em>"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Client"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Close"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Close icon"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Color"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Color Scheme"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Columns"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Columns."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Comment count"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Comment in"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Comments"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1 static/static-footer-text.php:8
+msgid "Comments (RSS)"
+msgstr ""
+
+#. Text in function
+#: comments.php:34 includes/locals.php:1
+msgid "Comments are closed."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Congratulations"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1 includes/widgets/my-posts-type-widget.php:260
+msgid "Container class"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Continue Reading"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Current"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Custom CSS"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Custom CSS class"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Custom List"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Customize"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Cyrillic"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Cyrillic Extended"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Daily Archives"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Dark"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Data Management"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid ""
+"Data Management allows to update or backup framework and themes. Framework "
+"is regularly updated thus delivering new opportunities for your site.<br> To "
+"keep your data safe, you can back up the framework or child theme, to be "
+"able to download it later. If necessary, you can restore the framework or "
+"your theme using the backup."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Date"
+msgstr ""
+
+#. Text in echo
+#: includes/widgets/my-posts-type-widget.php:276
+msgid ""
+"Date as title <span style=\"font-size:11px; color:#999;\">(\"[mm-dd-"
+"yyyy]\")</span>"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid ""
+"Date as title <span style='font-size:11px; color:#999;'>('[mm-dd-yyyy]')</"
+"span>"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Default options restored."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Delay"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Delete"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Description"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Desktops"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Desktops/Phones"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Desktops/Tablets"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#. Text in echo
+#: includes/widgets/my-social-widget.php:231
+msgid "Deviantart"
+msgstr ""
+
+#. Text in echo
+#: includes/widgets/my-social-widget.php:232
+msgid "Deviantart URL:"
+msgstr ""
+
+#. Text in echo
+#: includes/widgets/my-social-widget.php:234
+msgid "Deviantart label:"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Direct link to the post."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Disable fade-in animation"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Disable slide-down animation"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Disable slider"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid ""
+"Disable the widgets you don\\'t need and click \"Next\". All the selected "
+"widgets will be imported into the theme by default."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Dismiss this notice"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Display Footer Menu?"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Display Play/Pause button?"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Display avatar"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Display border"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Display breadcrumbs in the page?"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Display breadcrumbs?"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Display faces"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Display header"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Display map"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Display next & prev navigation only on hover?"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Display next & prev navigation?"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Display pagination?"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Display post title"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Display search box in the header?"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Display search box?"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Display stream"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Display the author of the post?"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Display the comment author"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Display the comment date"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Display thumbnails?"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Display:"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Do not show."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Do you want to display footer menu?"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Do you want to generate arrow mark-up?"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Documentation"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Done"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Double click"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Download Backup"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Download and import file attachments"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Downloading install package from <span class='code'>%s</span>&#8230;"
+msgstr ""
+
+#. Text in echo
+#: includes/widgets/my-social-widget.php:223
+msgid "Dribble"
+msgstr ""
+
+#. Text in echo
+#: includes/widgets/my-social-widget.php:224
+msgid "Dribble URL:"
+msgstr ""
+
+#. Text in echo
+#: includes/widgets/my-social-widget.php:226
+msgid "Dribble label:"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Drop Cap"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Elements"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Email (will not be published)"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Email:"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Embedded Code"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Enable Lightbox"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Enable excerpt for blog posts?"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Enable fade-in animation"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Enable or Disable button for portfolio posts."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Enable or Disable excerpt for blog posts."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Enable or Disable excerpt for portfolio posts."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Enable or Disable lightbox for portfolio posts."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Enable or Disable meta for single portfolio posts."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Enable or Disable title for portfolio posts."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Enable slide-down animation"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Enter Your Blog Title used on Blog page."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Enter Your Title used on Single Post page for related posts."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Enter text used in the right side of the footer. HTML tags are allowed."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Enter your search term..."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1 static/static-footer-text.php:8
+msgid "Entries (RSS)"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Error"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Error 404 Not Found"
+msgstr ""
+
+#. Text in function
+#: header.php:8
+msgid "Error 404 Not Found | "
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Every page"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Every page except"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1 includes/widgets/my-posts-type-widget.php:283
+msgid "Excerpt"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1 includes/widgets/my-posts-type-widget.php:299
+msgid "Excerpt as link"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Excerpt length (words)."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1 includes/widgets/my-posts-type-widget.php:292
+msgid "Excerpt length (words):"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Excerpt words"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Export"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "External Link"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Extra Wrap"
+msgstr ""
+
+#. Text in function
+#: includes/theme-init.php:1
+msgid "FAQ"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1 includes/theme-init.php:1
+msgid "FAQs"
+msgstr ""
+
+#. Text in echo
+#: includes/widgets/my-social-widget.php:163
+msgid "Facebook"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Facebook Like Box Widget"
+msgstr ""
+
+#. Text in echo
+#: includes/widgets/my-social-widget.php:165
+msgid "Facebook URL:"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Facebook error"
+msgstr ""
+
+#. Text in echo
+#: includes/widgets/my-social-widget.php:168
+msgid "Facebook label:"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Facebook page url"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Fade-in animation"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Fade-in animation."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Failed to import %s %s "
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Failed to import %s &#8220;%s&#8221; "
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s "
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Failed to import category %s "
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Fast"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Favicon"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Featured"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Featured image size on the blog."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Featured image size on the single page."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Feedburner URL"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid ""
+"Feedburner is a Google service that takes care of your RSS feed. Paste your "
+"Feedburner URL here to let readers see it in your website."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Fetching attachments is not enabled "
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Filter"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Finish"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "First"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Fit rows"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Fixed in Place"
+msgstr ""
+
+#. Text in echo
+#: includes/widgets/my-social-widget.php:181 includes/locals.php:1
+msgid "Flickr"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1 includes/widgets/my-flickr-widget.php:93
+msgid "Flickr ID:"
+msgstr ""
+
+#. Text in echo
+#: includes/widgets/my-social-widget.php:182
+msgid "Flickr URL:"
+msgstr ""
+
+#. Text in echo
+#: includes/widgets/my-social-widget.php:184
+msgid "Flickr label:"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Fluid Column"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Font Face"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Font Size"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Font Style"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Footer"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Footer Area 1"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Footer Area 2"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Footer Area 3"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Footer Area 4"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Footer Menu"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Footer Menu Typography"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Footer copyright text"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid ""
+"Forbid the search engines to index the following directories of your site."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Format"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Frame"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1 includes/theme-init.php:1
+msgid "Gallery"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Gallery categorie"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Gallery categories"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "General"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Go"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1 includes/widgets/my-comment-widget.php:47
+msgid "Go to this comment"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Google Analytics Code"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Google Map"
+msgstr ""
+
+#. Text in echo
+#: includes/widgets/my-social-widget.php:239
+msgid "Googleplus"
+msgstr ""
+
+#. Text in echo
+#: includes/widgets/my-social-widget.php:240
+msgid "Googleplus URL:"
+msgstr ""
+
+#. Text in echo
+#: includes/widgets/my-social-widget.php:242
+msgid "Googleplus label:"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Greek"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Greek Extended"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Grid Gallery"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "H1 Heading"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "H2 Heading"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "H3 Heading"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "H4 Heading"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "H5 Heading"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "H6 Heading"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "HTML map code:"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Header Menu"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Header background color"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Height"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Help & Support"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Hero Unit"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Hide Details"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Homepage"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Horizontal Rule"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "I don\\'t like."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "I like it."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Icon"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Icons"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Icons."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid ""
+"If true the navigation button (prev, next and play/stop buttons) will be "
+"visible on hover state only, if false they will be visible always"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid ""
+"If you want to install sample data from livedemo you need to go to "
+"<strong>Import</strong> and follow the tips."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid ""
+"If you want to install sample data from livedemo you need to go to "
+"<strong>Options</strong> > <strong>Import</strong> and follow the tips."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Image"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Image Ad Link:"
+msgstr ""
+
+#. Text in function
+#: options.php:1 includes/locals.php:1
+msgid "Image Logo"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Image Settings"
+msgstr ""
+
+#. Text in echo
+#: includes/widgets/my-instagram-widget.php:108 includes/locals.php:1
+#: includes/widgets/my-flickr-widget.php:94
+msgid "Images count:"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Import"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Import Data"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Import Sample Data"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Import Settings"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Import author:"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid ""
+"In icon field you need to specify the icon name that can be copied from the "
+"<a target=\"_blank\" href=\"http://fortawesome.github.io/Font-Awesome/icons/"
+"#brand\">website</a>. E.g. \"icon-facebook\"."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Include post types."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid ""
+"Incorrect file. Please, <a href='admin.php?page=options-framework-import&amp;"
+"step=1'>try again</a>."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Info"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Input URL to the <b>m4v</b> video format."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Input URL to the <b>ogv</b> video format."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Input additional info."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Input author\\'s URL."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Input author\\'s additional info."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Input author\\'s name."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Input position of the person."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Input project end date."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Input project owner name."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Input the audio URL."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Input the audio artist (for playlist)."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Input the audio title (for playlist)."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Input the project URL (external link)"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Input the slide URL (can be external link)"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Input the video artist (for playlist)."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Input the video title (for playlist)"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Input the video title (for playlist)."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Input your caption for slide (HTML tags are allowed)."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Insert Shortcode"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Insert the URL you wish to link to."
+msgstr ""
+
+#. Text in echo
+#: includes/widgets/my-social-widget.php:199
+msgid "Instagram"
+msgstr ""
+
+#. Text in echo
+#: includes/widgets/my-social-widget.php:200
+msgid "Instagram URL:"
+msgstr ""
+
+#. Text in echo
+#: includes/widgets/my-instagram-widget.php:107
+msgid "Instagram access token:"
+msgstr ""
+
+#. Text in echo
+#: includes/widgets/my-social-widget.php:202
+msgid "Instagram label:"
+msgstr ""
+
+#. Text in echo
+#: includes/widgets/my-instagram-widget.php:106
+msgid "Instagram user ID:"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Install"
+msgstr ""
+
+#. Text in function
+#: includes/class-tgm-plugin-activation2.php:1 includes/locals.php:1
+msgid "Install Plugins"
+msgstr ""
+
+#. Text in function
+#: includes/class-tgm-plugin-activation2.php:1 includes/locals.php:1
+msgid "Install Required Plugins"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Install package not available."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Installed But Not Activated"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. Text in function
+#: includes/class-tgm-plugin-activation2.php:1 includes/locals.php:1
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Invalid file type"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Italic"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Label"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Labels"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Large size"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Last"
+msgstr ""
+
+#. Text in echo
+#: loop/loop-archives.php:27
+msgid "Last 10 Posts"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Last 30 Posts"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Last Backup Date"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Latest Templates"
+msgstr ""
+
+#. Text in function
+#: includes/widgets/my-twitter-widget.php:1
+msgid "Latest Tweets"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Latin"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Latin Extended"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Launch Project"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Layout"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Leave a comment"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Light"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Lineheight"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Lines."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Link"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Link Settings"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1 includes/widgets/my-flickr-widget.php:95
+msgid "Link Text:"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1 includes/widgets/my-posts-type-widget.php:369
+msgid "Link URL"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1 includes/widgets/my-posts-type-widget.php:322
+msgid "Link class"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Link color"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Link color hover"
+msgstr ""
+
+#. Text in echo
+#: includes/widgets/my-posts-type-widget.php:363
+msgid "Link text"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1 includes/widgets/my-posts-type-widget.php:354
+msgid "Link to all posts"
+msgstr ""
+
+#. Text in function
+#: includes/widgets/my-social-widget.php:277 includes/locals.php:1
+msgid "Link to your social networks."
+msgstr ""
+
+#. Text in echo
+#: includes/widgets/my-social-widget.php:191
+msgid "Linkedin"
+msgstr ""
+
+#. Text in echo
+#: includes/widgets/my-social-widget.php:192
+msgid "Linkedin URL:"
+msgstr ""
+
+#. Text in echo
+#: includes/widgets/my-social-widget.php:194
+msgid "Linkedin label:"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Lists"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Loader"
+msgstr ""
+
+#. Text in function
+#: includes/sidebar-init.php:1 includes/locals.php:1
+msgid "Located at the bottom of pages."
+msgstr ""
+
+#. Text in function
+#: includes/sidebar-init.php:1 includes/locals.php:1
+msgid "Located at the right side of pages."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Log out &raquo;"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Log out of this account;"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Logged in"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Logged in as"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Logo"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Logo & Favicon"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Logo Image Path"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Logo Typography"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Map height:"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Map width:"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Masonry"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid ""
+"Media library files (images, video, audio, etc.) <em>(not recommended)</em>"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Menu Typography"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Menu item skipped due to invalid menu slug: %s "
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Menu item skipped due to missing menu slug "
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Meta"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Meta format"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Middle Center"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Middle Left"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Middle Right"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Miliseconds delay on mouseout."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Mini Posts Grid"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Mini Posts List"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Minus List"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Misc"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Mobile menu label."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Monthly Archives"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1 includes/widgets/my-posts-type-widget.php:306
+msgid "More link"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Mouse events for transition of slides"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Mouseover"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Mute"
+msgstr ""
+
+#. Text in function
+#: includes/widgets/my-comment-widget.php:55
+msgid "My - Recent Comments"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "My Facebook Page"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1 includes/widgets/my-comment-widget.php:55
+msgid "My Recent Comments"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "NOTE"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Name"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid ""
+"Name of the custom category that is displayed on this page. You need to use "
+"the slug of the category here."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Navigate to..."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Navigation"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1 includes/post-formats-isotope/post-nav.php:10
+msgid "Newer Entries &raquo;"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "News & Updates"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Next"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Next & Prev navigation"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Next Post &raquo;"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "No"
+msgstr ""
+
+#. Text in function
+#: comments.php:31 includes/locals.php:1
+msgid "No Comments Yet."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "No Repeat"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "No backup."
+msgstr ""
+
+#. Text in echo
+#: loop/loop-author.php:55 includes/locals.php:1
+msgid "No comments by"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "No items"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "No lable."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "No pages"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "No plugins to install or activate."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "No post yet"
+msgstr ""
+
+#. Text in function
+#: loop/loop-author.php:36
+msgid "No post yet."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "No tags"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1 includes/theme-function.php:1
+msgid "None"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "None of the pages except"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Normal"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Normal size"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Not Found"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Not Installed"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Not defined"
+msgstr ""
+
+#. Text in echo
+#: includes/widgets/my-twitter-widget.php:174
+msgid "Number of Twets:"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Number of columns"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Number of comments to show"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Number of comments."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Number of dislikes."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Number of likes."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1 includes/widgets/my-posts-type-widget.php:220
+msgid "Number of posts to show"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Number of rows"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Number of view."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Only administrator"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Only guests"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Only registered users"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Only registered users can vote!"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Options"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Options saved."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Our Team"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Page"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Page ID/Title/slug"
+msgstr ""
+
+#. Text in function
+#: static/static-not-found.php:4 includes/locals.php:1
+msgid "Page Not Found"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Page Template"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Page URL"
+msgstr ""
+
+#. Text in function
+#: loop/loop-archives.php:23 includes/locals.php:1
+msgid "Pages:"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Pagination"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Pause"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Pause on mouseover"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Pause time"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Pause time (ms)."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Permalink"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Permanent Link to"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Personal Options"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Phones"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Pie"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Ping sitemap."
+msgstr ""
+
+#. Text in echo
+#: includes/widgets/my-social-widget.php:247
+msgid "Pinterest"
+msgstr ""
+
+#. Text in echo
+#: includes/widgets/my-social-widget.php:248
+msgid "Pinterest URL:"
+msgstr ""
+
+#. Text in echo
+#: includes/widgets/my-social-widget.php:250
+msgid "Pinterest label:"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Play"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Play/Pause button"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Please"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Please choose desired Portfolio Format and fill additional fields."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Please do not load this page directly. Thanks!"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Please fill additional fields for person."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Please fill additional fields for slide."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Please fill additional fields for testimonial."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid ""
+"Please note that certain content is already installed. You may simply need "
+"to skip this step. Otherwise, you can proceed with the installation."
+msgstr ""
+
+#. Text in function
+#: static/static-not-found.php:8 includes/locals.php:1
+msgid ""
+"Please try using our search box below to look for information on the "
+"internet."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Plugin"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Plugin activated successfully"
+msgstr ""
+
+#. Text in function
+#: includes/class-tgm-plugin-activation2.php:1 includes/locals.php:1
+msgid "Plugin activated successfully."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Plugin activation failed."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Plugin install failed."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Plugin installed successfully."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Plus List"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Portfolio"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Portfolio 2 columns items amount"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Portfolio 3 columns items amount"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Portfolio 4 columns items amount"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Portfolio Category"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Portfolio Options"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Portfolio Tag"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Portfolio filter."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid ""
+"Portfolio has different layout modes. You can set and change the layout mode "
+"via this option."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Portfolio items amount for Portfolio 2 columns template."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Portfolio items amount for Portfolio 3 columns template."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Portfolio items amount for Portfolio 4 columns template."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Position"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Post"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Post Cycle"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Post ID/Title/slug"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Post categories."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Post format:"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Post order:"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Post publication date."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1 includes/widgets/my-posts-type-widget.php:266
+msgid "Post title"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Post types settings."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Posted"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Posted in"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Posts"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Posts Grid"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Posts List"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Posts by type"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Posts per page:"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Posts type"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Pre-Packaged"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Preview"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Previous"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Previously Uploaded"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Priority."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1 static/static-footer-text.php:9
+msgid "Privacy Policy"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Private Repository"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Progressbar"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Put quote author in this field."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Put your quote in this field."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Q?"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Quote"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Quote Settings"
+msgstr ""
+
+#. Text in echo
+#: includes/widgets/my-social-widget.php:264
+msgid "RSS feed"
+msgstr ""
+
+#. Text in echo
+#: includes/widgets/my-social-widget.php:265
+msgid "RSS feed:"
+msgstr ""
+
+#. Text in echo
+#: includes/widgets/my-social-widget.php:267
+msgid "RSS label:"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Random"
+msgstr ""
+
+#. Text in echo
+#: functions.php:415
+msgid "Re-Attach"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Read more"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Recent Comments"
+msgstr ""
+
+#. Text in echo
+#: loop/loop-author.php:44 includes/locals.php:1
+msgid "Recent Comments by"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Recent Posts"
+msgstr ""
+
+#. Text in echo
+#: loop/loop-author.php:24 includes/locals.php:1
+msgid "Recent Posts by"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Recent Testimonials"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Recommended"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Related Posts"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Related Posts Title"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Remote file is incorrect size "
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Remote file is too large, limit is %s "
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Remote server did not respond"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Remote server returned error response %1$d %2$s "
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Repeat All"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Repeat Horizontally"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Repeat Vertically"
+msgstr ""
+
+#. Text in function
+#: includes/theme-function.php:681
+msgid "Reply <span><i class=\"icon-reply\"></i></span>"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Required"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Restore"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Restore Defaults"
+msgstr ""
+
+#. Text in function
+#: includes/class-tgm-plugin-activation2.php:1 includes/locals.php:1
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Return to the Dashboard"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1 includes/widgets/my-posts-type-widget.php:241
+msgid "Reverse sort order (ascending)"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Roundabout"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "SEO"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Save Options"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Scroll Normally"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Search for"
+msgstr ""
+
+#. Text in function
+#: header.php:8
+msgid "Search for &quot;"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Search page"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid ""
+"See <a target=\"_blank\" href=\"http://codex.wordpress.org/"
+"Changing_File_Permissions\">the Codex</a> for more information."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid ""
+"Select (<b>.xml</b>) file to upload sample data.<br>If you do not want to "
+"install sample data from livedemo you need to <b>skip this step</b>."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Select meta block type which will be displayed on blog and post pages."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Select page to add"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Select the file that contains Theme Options (e.g. <b>options.json</b> )"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid ""
+"Select the file that contains Widget Settings (e.g. <b>your_template_package/"
+"sources/sample_data/widgets.json</b>)"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid ""
+"Select the slides that you want to be displayed on slider. If no slide is "
+"selected, all slides will be displayed."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid ""
+"Select whether you want your main logo to be an image or text. If you select "
+"\"image\" you can put in the image url in the next option, and if you select "
+"\"text\" your Site Title will be shown instead."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Select your animation type."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Select your banner animation type."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Selected pages"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Server Settings"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Service Box"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Services"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid ""
+"Set the number of slide that will be active by default. If the value is 0, "
+"all slides will be of the same width when page loads."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Share on:"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1 includes/theme_shortcodes/tinymce/dialog.php:23
+msgid "Shortcode Options"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Should images be uploaded on page scroll?"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Should the direct link to the post be displayed? "
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Should the number of comments be displayed?"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Should the number of dislikes be displayed?"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Should the number of likes be displayed?"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Should the number of view be displayed?"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Should the post categories be displayed?"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Should the post publication date be displayed?"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Should the tags be displayed?"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Show \"More link"
+msgstr ""
+
+#. Text in echo
+#: includes/widgets/my-posts-type-widget.php:310
+msgid "Show \"More link\""
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Show All"
+msgstr ""
+
+#. Text in function
+#: includes/theme-function.php:1
+msgid "Show All "
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Show Details"
+msgstr ""
+
+#. Text in echo
+#: includes/widgets/my-instagram-widget.php:112
+msgid "Show Likes"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Show Widget Settings"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Show button?"
+msgstr ""
+
+#. Text in echo
+#: includes/widgets/my-instagram-widget.php:118
+msgid "Show caption"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1 includes/widgets/my-posts-type-widget.php:381
+msgid "Show custom posts"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Show excerpt?"
+msgstr ""
+
+#. Text in echo
+#: includes/widgets/my-twitter-widget.php:180
+msgid "Show fullname"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1 includes/widgets/my-posts-type-widget.php:358
+msgid "Show global link to all posts"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1 includes/widgets/my-posts-type-widget.php:254
+msgid "Show meta"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1 includes/widgets/my-posts-type-widget.php:247
+msgid "Show number of comments"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Show portfolio meta?"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1 includes/widgets/my-posts-type-widget.php:287
+msgid "Show post excerpt"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1 includes/widgets/my-posts-type-widget.php:333
+msgid "Show post thumbnail"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1 includes/widgets/my-posts-type-widget.php:270
+msgid "Show post title"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Show title?"
+msgstr ""
+
+#. Text in echo
+#: includes/widgets/my-twitter-widget.php:186
+msgid "Show username"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Sidebar"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Sidebar position"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Single post image size"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Sitemap"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Sitemap XML"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Skip this step"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Slide-down animation."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Slider"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Slider Options"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Slider Settings"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Slider loader"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Slides"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Slides to display"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Slideshow"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Sliding effect"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Slow"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Small"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Small Horizontal Rule"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Social Networks"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Social Networks Title"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid ""
+"Some of your server settings do not meet the requirements for installing the "
+"sample data. Please, consult with your hosting provider on how to increase "
+"the required values."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Something went wrong"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Something went wrong with the plugin API._"
+msgstr ""
+
+#. Text in function
+#: includes/class-tgm-plugin-activation2.php:1
+msgid "Something went wrong."
+msgstr ""
+
+#. Text in function
+#: static/static-not-found.php:3 includes/locals.php:1
+msgid "Sorry!"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1 includes/widgets/my-posts-type-widget.php:227
+msgid "Sort by"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Source"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Spacer"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Specify the heading for the social networks block."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Speed"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Standard"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Star List"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Start"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "State/Region:"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Status"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Stop"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Store"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Street Address:"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Submit Comment"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Submit Permalink Structure"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Support"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Table"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Tablets"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Tablets/Phones"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Tabs"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Tag"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Tag Archive for"
+msgstr ""
+
+#. Text in function
+#: header.php:8
+msgid "Tag Archive for &quot;"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Tag Archives"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Tag ID/Name"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Tags"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Tags be displayed."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Telephone:"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Template"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Template URL"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Testimonial"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Testimonial Options"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Text Highlight"
+msgstr ""
+
+#. Text in function
+#: options.php:1 includes/locals.php:1
+msgid "Text Logo"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "The Category Slug"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid ""
+"The Like Box only works with <a target=\"_blank\" href=\"https://www."
+"facebook.com/help/174987089221178/\" title=\"Facebook Pages\">Facebook Pages."
+"</a>"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "The Quote"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "The URL"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "The auto play will pause when you mouse over the slider."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "The file does not exist, please "
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "The following plugin was activated successfully: %s."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "The following plugins were activated successfully:"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "The following recommended plugin is currently inactive: %1$s"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "The following recommended plugins are currently inactive: %1$s."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "The following required plugin is currently inactive: %1$s."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "The following required plugins are currently inactive: %1$s."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "The import file you\\'ve provided is invalid. Please try again."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "The login information you have entered is incorrect."
+msgstr ""
+
+#. Text in function
+#: static/static-not-found.php:7 includes/locals.php:1
+msgid ""
+"The page you are looking for might have been removed, had its name changed, "
+"or is temporarily unavailable."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "The type of slider"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Theme Framework"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid ""
+"Theme Framework is not able to perform necessary changes for the correct "
+"work with your child theme."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Theme Options Media"
+msgstr ""
+
+#. Text in function
+#: loop/loop-search.php:17 includes/locals.php:1
+msgid "There has been an error."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "There is a new version of theme framework available"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "There was a problem exporting your settings. Please Try again."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "There was a problem importing your settings. Please Try again."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid ""
+"These settings will help reduce the information search range on your site. "
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid ""
+"This option will stop the search engines from going to other sites following "
+"the links in your site content."
+msgstr ""
+
+#. Text in function
+#: comments.php:7 includes/locals.php:1
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "This text is visible in mobile select menu."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "This theme recommends the following plugin: %1$s."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "This theme recommends the following plugins: %1$s."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "This theme requires the following plugin: %1$s."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "This theme requires the following plugins: %1$s."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid ""
+"This way of links configuration can be used by not only our blog followers "
+"but will help in SEO-optimisation as well. The effectiveness and main "
+"features of this link configuration method are revealed <a href='http://"
+"codex.wordpress.org/Using_Permalinks'>here</a>"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1 includes/theme-function.php:1
+msgid "Thumbnail"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1 includes/widgets/my-posts-type-widget.php:349
+msgid "Thumbnail as link"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1 includes/widgets/my-posts-type-widget.php:328
+msgid "Thumbnail dimensions"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Thumbnails"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1 includes/widgets/my-posts-type-widget.php:212
+msgid "Title"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Title Box"
+msgstr ""
+
+#. Text in echo
+#: includes/widgets/my-social-widget.php:159
+#: includes/widgets/my-instagram-widget.php:104
+#: includes/widgets/my-flickr-widget.php:91
+#: includes/widgets/my-twitter-widget.php:166
+msgid "Title:"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <b>admin</b> "
+"entries."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Top Center"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Top Left"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Top Right"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Tweet this article"
+msgstr ""
+
+#. Text in echo
+#: includes/widgets/my-social-widget.php:173 includes/locals.php:1
+msgid "Twitter"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Twitter Name:"
+msgstr ""
+
+#. Text in echo
+#: includes/widgets/my-social-widget.php:174
+msgid "Twitter URL:"
+msgstr ""
+
+#. Text in echo
+#: includes/widgets/my-social-widget.php:176
+msgid "Twitter label:"
+msgstr ""
+
+#. Text in echo
+#: includes/widgets/my-twitter-widget.php:170
+msgid "Twitter username:"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Twitts Number:"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Type"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "URL"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "URL #1"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "URL #2"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Uncategorized"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Unfortunately theme "
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Unmute"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Unstyled"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Update"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Update Info"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Update Version"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Upload"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Upload File and Import"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Use this widget to add a vCard"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Vertical Rule"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Video"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Video Preview"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Video Settings"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Vietnamese"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "View File"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "View Picture"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "View all"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "View all posts by"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "View meta of the blog."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "View version "
+msgstr ""
+
+#. Text in echo
+#: includes/widgets/my-social-widget.php:255
+msgid "Vimeo"
+msgstr ""
+
+#. Text in echo
+#: includes/widgets/my-social-widget.php:256
+msgid "Vimeo URL:"
+msgstr ""
+
+#. Text in echo
+#: includes/widgets/my-social-widget.php:258
+msgid "Vimeo label:"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Visibility"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Visible for"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Visible on"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid ""
+"Want to add any custom CSS code? Put in here, and the rest is taken care of. "
+"This overrides any other stylesheets. eg: a.button{color:green}"
+msgstr ""
+
+#. Text in echo
+#: loop/loop-search.php:18 includes/locals.php:1
+msgid "We apologize for any inconvenience, please"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Website"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Welcome to the OptionsFramework Backup Manager."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Well"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "What kind of logo?"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Width"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "WordPress Repository"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "WordPress engine system files and folders <em>(recommended)</em>"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Written by"
+msgstr ""
+
+#. Text in function
+#: functions.php:413
+msgid "Y/m/d"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Yearly Archives"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Yes"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid ""
+"You can back up your theme. If the theme has a backup copy, it is possible "
+"to restore it or download. The date of the latest backup copy is displayed "
+"in the column <b>Last Backup Date</b>."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid ""
+"You can choose different types of animation slowdown for transition of "
+"slides."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid ""
+"You can choose different types of mouse events for transition of slides."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "You can choose the type of slider that suits you best."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid ""
+"You can enable images load only as you scroll down the page. Otherwise "
+"images will load all at once."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid ""
+"You can include embedded code here.<br><b>Attention!</b> This code overwrite "
+"your video URL(s)."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid ""
+"You can paste your Google Analytics or other tracking code in this box. This "
+"will be automatically added to the footer."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid ""
+"You can proceed with the template installation without updating server "
+"settings, however in this case you can get errors or only part of your "
+"content will be loaded."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "You have already voted."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid ""
+"You have successfully installed your <b>WordPress Theme</b>.<br /> You can "
+"look theme now"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid ""
+"You might see only the white screen on the next step. Don\\'t worry, the "
+"importing is being continued. Please wait until the installation is finished."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "You must be"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid ""
+"You need to enable write permissions on your server to use these functions."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Your Social Networks."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Your Version"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1 includes/theme-function.php:669
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Your comment*"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Your have no widgets. Please, click next to go to the next step."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Your plugins system files and folders <em>(recommended)</em>"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Your themes system files and folders <em>(recommended)</em>"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Your website indexation settings."
+msgstr ""
+
+#. Text in echo
+#: includes/widgets/my-social-widget.php:207
+msgid "Youtube"
+msgstr ""
+
+#. Text in echo
+#: includes/widgets/my-social-widget.php:208
+msgid "Youtube URL:"
+msgstr ""
+
+#. Text in echo
+#: includes/widgets/my-social-widget.php:210
+msgid "Youtube label:"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Zero size file downloaded "
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "Zipcode/Postal Code:"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "blindCurtainBottomLeft"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "blindCurtainBottomRight"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "blindCurtainSliceBottom"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "blindCurtainSliceTop"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "blindCurtainTopLeft"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "blindCurtainTopRight"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "bottomLeftTopRight"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "bottomRightTopLeft"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "by "
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "comments-link"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "curtainBottomLeft"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "curtainBottomRight"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "curtainSliceLeft"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "curtainSliceRight"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "curtainTopLeft"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "curtainTopRight"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "easeInBack"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "easeInBounce"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "easeInCirc"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "easeInCubic"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "easeInElastic"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "easeInExpo"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "easeInOutBack"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "easeInOutBounce"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "easeInOutCirc"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "easeInOutCubic"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "easeInOutElastic"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "easeInOutExpo"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "easeInOutQuad"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "easeInOutQuart"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "easeInOutQuint"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "easeInOutSine"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "easeInQuad"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "easeInQuart"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "easeInQuint"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "easeInSine"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "easeOutBack"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "easeOutBounce"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "easeOutCirc"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "easeOutCubic"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "easeOutElastic"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "easeOutExpo"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "easeOutQuad"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "easeOutQuart"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "easeOutQuint"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "easeOutSine"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "fadeFromBottom"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "fadeFromLeft"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "fadeFromRight"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "fadeFromTop"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "fadeIn"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "go to widgets"
+msgstr ""
+
+#. Text in function
+#: includes/widgets/my-flickr-widget.php:1
+msgid "hercules - Flickr"
+msgstr ""
+
+#. Text in function
+#: includes/widgets/my-instagram-widget.php:29
+msgid "hercules - Instagram"
+msgstr ""
+
+#. Text in function
+#: includes/widgets/my-comment-widget.php:55
+msgid "hercules - Recent Comments"
+msgstr ""
+
+#. Text in function
+#: includes/widgets/my-posts-type-widget.php:381
+msgid "hercules - Recent News"
+msgstr ""
+
+#. Text in function
+#: includes/widgets/my-social-widget.php:277
+msgid "hercules - Social Networks"
+msgstr ""
+
+#. Text in function
+#: includes/widgets/my-twitter-widget.php:1
+msgid "hercules - Twitter"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid ""
+"if for some reason those settings can not be adjusted, you may install the "
+"sample data using an <strong>alternative method</strong> - importing the "
+"<strong>.sql</strong> file directly into the database. Refer to the template "
+"documentation for instructions."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1 static/static-footer-text.php:8
+msgid "is proudly powered by"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "linear"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "mosaic"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "mosaicRandom"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "mosaicReverse"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "mosaicSpiral"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "mosaicSpiralReverse"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "moveFromBottom"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "moveFromLeft"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "moveFromRight"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "moveFromTop"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "next"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "or"
+msgstr ""
+
+#. Text in echo
+#: loop/loop-search.php:18 includes/locals.php:1
+msgid "or use the search form below."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "random"
+msgstr ""
+
+#. Text in echo
+#: loop/loop-search.php:18 includes/locals.php:1
+msgid "return to the home page"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "search"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "simpleFade"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "stampede"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "success"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "to post a comment."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "topLeftBottomRight"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "try again"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "update now."
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "updated"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "vCard"
+msgstr ""
+
+#. Text in function
+#: includes/locals.php:1
+msgid "visit site"
+msgstr ""
+
+#. Text in echo
+#: loop/loop-author.php:55 includes/locals.php:1
+msgid "yet."
+msgstr ""

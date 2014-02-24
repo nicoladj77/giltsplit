@@ -1,0 +1,13 @@
+/*
+ Theme Name:   John Doe Blog Child
+ Theme URI:    http://hercules-design.com
+ Description:  John Doe Blog Child Theme
+ Author:       John Doe
+ Author URI:   http://hercules-design.com
+ Template:     JOHNDOEBLOG-theme
+ Version:      1.1.0
+ Tags:         awesome, beautiful, blog, design, facebook, flickr, instagram, minimalist, personal, responsive, clean, simple, twitter, visual, widget, wordpress
+ Text Domain:  JOHNDOEBLOG-theme-child
+*/
+
+@import url("../JOHNDOEBLOG-theme/style.css");
